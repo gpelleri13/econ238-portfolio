@@ -6,4 +6,4 @@ Environmental Economics, Fall 2026, University of Rochester
 
 ## Assignments
 
-- [Assignment 1: Colossus](Assignment-1-coase.md)
+- [Assignment 1: Colossus](Assignment-01-coase.md)
